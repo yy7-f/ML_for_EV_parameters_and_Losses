@@ -1,1 +1,3 @@
-# NeuralNetworks
+Artificial neural network and other machine learning models including k-nearest neighbors, decision tree, random forest, and multiple linear regression with a quadratic model are developed to predict electrical parameters and losses as new prediction approaches for the performance of Volvo Cars’ electric vehicles and evaluate their performance.
+
+link: https://www.diva-portal.org/smash/record.jsf?dswid=-2431&pid=diva2%3A1789150&c=1&searchType=SIMPLE&language=en&query=yo+fujimoto&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all
